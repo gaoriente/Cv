@@ -246,6 +246,7 @@ button:focus {
 
 
 /*IMAGES*/
+
 img {
     width: 100%;
 }
@@ -258,6 +259,17 @@ hr {
 .no-padding {
     padding: 0;
 }
+
+div#imagens img{
+    width: 220px!important;
+    height: 200px!important;
+}
+
+div#imagens2 img{
+    width: 180px!important;
+    height: 200px!important;
+}
+
 
 /* LIST STYLE
 -------------------------------------------------- */
